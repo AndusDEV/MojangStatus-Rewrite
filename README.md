@@ -6,7 +6,10 @@ Użyte: [Mojang-API](https://github.com/KevinPriv/MojangAPI), [Gson](https://git
  # Instalacja:
  
 1. [Pobierz najnowsze wydanie](https://github.com/AndusDEV/MojangStatus-Rewrite/releases/latest)
-2. Postępuj zgodnie z instrukcjami dla swojego systemu operacyjnego:
+2. Wejdź do folderu gdzie pobrałeś plik zip
+3. Rozpakuj zip
+4. Wejdź do rozpakowanego foldeu
+5. Postępuj zgodnie z instrukcjami dla swojego systemu operacyjnego:
 ### Windows
 1. Dwukrotnie kliknij _**`run.bat`**_, i poczekaj aż program się włączy. </br>
 **LUB** </br>
